@@ -1,0 +1,49 @@
+[
+    {
+        "treningowy":"tak",
+        "opis":"Dzień treningowy",
+        "partia ciała":"Klatka piersiowa i biceps",
+        "ćwiczenia":"Klatka piersiowa 4 ćwiczenia po 4 serie, biceps 3 ćwiczenia po 4 serie",
+        "po treningu":"Zobacz jakie suplementy powinieneć wziąć po treningu wpisując 'tak', a następnie '2'"
+    },
+    {
+        "treningowy":"nie",
+        "opis":"Dzień bez treningu",
+        "po treningu":"Zobacz jakie suplementy powinieneć wziąć jeśli nie odbyłeś dziś treningu wpisując 'tak', a następnie '3'"
+    },
+    {
+        "treningowy":"tak",
+        "opis":"Dzień treningowy",
+        "partia ciała":"Mięśnie pleców oraz triceps",
+        "ćwiczenia":"Plecy 4 ćwiczenia po 4 serie, triceps 3 ćwiczenia po 4 serie",
+        "po treningu":"Zobacz jakie suplementy powinieneć wziąć po treningu wpisując 'tak', a następnie '2'"
+    },
+    {
+        "treningowy":"nie",
+        "opis":"Dzień bez treningu",
+        "po treningu":"Zobacz jakie suplementy powinieneć wziąć jeśli nie odbyłeś dziś treningu wpisując 'tak', a następnie '3'"
+    },
+    {
+        "treningowy":"tak",
+        "opis":"Dzień treningowy",
+        "partia ciała":"Mięśnie nóg oraz brzucha",
+        "ćwiczenia":"Nogi 4 ćwiczenia po 4 serie, brzuch 3 ćwiczenia po 4 serie",
+        "po treningu":"Zobacz jakie suplementy powinieneć wziąć po treningu wpisując 'tak', a następnie '2'"
+    },
+    {
+        "treningowy":"nie",
+        "opis":"Dzień bez treningu",
+        "po treningu":"Zobacz jakie suplementy powinieneć wziąć jeśli nie odbyłeś dziś treningu wpisując 'tak', a następnie '3'"
+    },
+    {
+        "treningowy":"nie",
+        "opis":"Dzień bez treningu",
+        "po treningu":"Zobacz jakie suplementy powinieneć wziąć jeśli nie odbyłeś dziś treningu wpisując 'tak', a następnie '3'"
+    }
+]
+
+       
+       
+   
+  
+   
