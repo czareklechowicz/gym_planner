@@ -1,3 +1,6 @@
+# Program polega na dostosowaniu optymalnego planu treningowego, oraz dietetycznego dla wszystkich dni tygodnia. 
+# Miłego uytkowania :D
+
 import json
 
 with open("./siłownia.json") as jsonFile:
