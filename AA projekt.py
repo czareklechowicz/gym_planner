@@ -1,6 +1,6 @@
 import json
 
-with open("./projekty/siłownia.json") as jsonFile:
+with open("./siłownia.json") as jsonFile:
     gym_json = json.load(jsonFile)
     jsonFile.close()
 
