@@ -6,7 +6,7 @@ import json
 with open("./siłownia.json") as jsonFile:
     gym_json = json.load(jsonFile)
     jsonFile.close()
-# ala ma kota
+
 repeat = "tak"
 
 def trainng_plan():
