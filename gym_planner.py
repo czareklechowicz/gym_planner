@@ -9,7 +9,7 @@ with open("./siłownia.json") as jsonFile:
 
 repeat = "tak"
 
-def trainng_plan():
+def training_plan():
     print()
     print("Wpisz dzień tygodnia o który chodzi (poniedziałek, wtorek, środa...): ")
     a = input("")
@@ -63,7 +63,7 @@ def show():
     c = input("") 
     if c != '0':
         if c == '1':
-            list = trainng_plan()
+            list = training_plan()
         elif c == '2':
             list = training_day()
         elif c == '3':
