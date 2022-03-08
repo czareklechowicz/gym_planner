@@ -1,5 +1,5 @@
 # Program polega na dostosowaniu optymalnego planu treningowego, oraz dietetycznego dla wszystkich dni tygodnia. 
-# Miłego uytkowania :D
+# Miłego uzytkowania :D
 
 import json
 
