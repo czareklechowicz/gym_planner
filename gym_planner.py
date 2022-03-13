@@ -34,7 +34,7 @@ def training_plan():
             print("ćwiczenia:",gym_json[b]["ćwiczenia"])
             print("co wypić po treningu:",gym_json[b]["po treningu"])
         else:
-            print("co wypić:",gym_json[b]["po treningu"])
+            print("co wypić dla najlepszego efektu:",gym_json[b]["po treningu"])
 
 def training_day():
     print()
