@@ -56,9 +56,9 @@ def show():
     print("")
     print(" Optymalny trening na siłowni by Czarek Lechowicz")
     print(" 1. Plan treningowy na cały tydzień.")
-    print(" 2. Odzywki na dzień treningowy.")
-    print(" 3. Odzywki na dzień bez treningu.")
-    print(" 4. Odzywki na dzień z delikatnym treningiem.")
+    print(" 2. Suplementy na dzień treningowy.")
+    print(" 3. Suplementy na dzień bez treningu.")
+    print(" 4. Suplementy na dzień z delikatnym treningiem.")
     print(" Wybierz numer:")
     c = input("") 
     if c != '0':
