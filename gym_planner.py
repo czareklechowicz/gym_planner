@@ -71,7 +71,7 @@ def show():
         elif c == '4':
             list = light_training()
         else:
-            print("Wprowadziłeś niepoprawną nazwę, wpisz 'tak' a następnie wpisz komende jeszcze raz")
+            print("Wprowadziłeś niepoprawną nazwę, wpisz 'tak' a następnie wpisz polecenie jeszcze raz")
 
     jeszcze_raz = input("Czy chcesz sprawdzić jeszcze raz? Wpisz 'tak' ")
 
