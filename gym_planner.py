@@ -82,7 +82,7 @@ while repeat == "tak":
     show()
 
 print()
-print("Dziękujemy za skorzystanie z programu 'optymalny trening na siłowni by Czarek Lechowicz. :D ")
+print("Dziękujemy za skorzystanie z programu 'optymalny trening na siłowni napisanego przez Cezarego Lechowicza. :D ")
 
 
 
