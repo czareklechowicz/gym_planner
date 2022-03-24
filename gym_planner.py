@@ -43,7 +43,7 @@ def training_day():
 
 def wo_training_day():
     print()
-    print("Odzywki na dzień bez treningu, wypij: białko x2 , kreatyna 1x")
+    print("Odzywki na dzień bez treningu, wypij: białko x2 , kreatyna 1x, BCAA 1x")
     print()
 
 def light_training():
