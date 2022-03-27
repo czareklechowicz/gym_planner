@@ -38,17 +38,17 @@ def training_plan():
 
 def training_day():
     print()
-    print("Odzywki na dzień treningowy, wypij podane suplementy: Kreatyna x1 , białko x2 , BCAA 1x")
+    print("Suplementy na dzień treningowy, wypij podane suplementy: Kreatyna x1 , białko x2 , BCAA 1x")
     print()
 
 def wo_training_day():
     print()
-    print("Odzywki na dzień bez treningu, wypij: białko x2 , kreatyna 1x, BCAA 1x")
+    print("Suplementy na dzień bez treningu, wypij: białko x2 , kreatyna 1x, BCAA 1x")
     print()
 
 def light_training():
     print()
-    print("Odzywki na dzień z lekkim treningiem, wypij: białko 1.5 porcji, kreatyna x1")
+    print("Suplementy na dzień z lekkim treningiem, wypij: białko 1.5 porcji, kreatyna x1")
     print()
 
 def show():
